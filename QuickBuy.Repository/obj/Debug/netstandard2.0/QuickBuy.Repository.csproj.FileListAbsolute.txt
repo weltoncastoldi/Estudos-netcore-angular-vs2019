@@ -7,3 +7,14 @@ D:\DEV\github\netcore-angular-vs2019\QuickBuy.Repository\obj\Debug\netstandard2.
 D:\DEV\github\netcore-angular-vs2019\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.csproj.CoreCompileInputs.cache
 D:\DEV\github\netcore-angular-vs2019\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.dll
 D:\DEV\github\netcore-angular-vs2019\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.pdb
+C:\DEV\GIT\netcore-angular-vs2019\QuickBuy.Repository\bin\Debug\netstandard2.0\QuickBuy.Repository.deps.json
+C:\DEV\GIT\netcore-angular-vs2019\QuickBuy.Repository\bin\Debug\netstandard2.0\QuickBuy.Repository.dll
+C:\DEV\GIT\netcore-angular-vs2019\QuickBuy.Repository\bin\Debug\netstandard2.0\QuickBuy.Repository.pdb
+C:\DEV\GIT\netcore-angular-vs2019\QuickBuy.Repository\bin\Debug\netstandard2.0\QuickBuy.Dominio.dll
+C:\DEV\GIT\netcore-angular-vs2019\QuickBuy.Repository\bin\Debug\netstandard2.0\QuickBuy.Dominio.pdb
+C:\DEV\GIT\netcore-angular-vs2019\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.csprojAssemblyReference.cache
+C:\DEV\GIT\netcore-angular-vs2019\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.AssemblyInfoInputs.cache
+C:\DEV\GIT\netcore-angular-vs2019\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.AssemblyInfo.cs
+C:\DEV\GIT\netcore-angular-vs2019\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.csproj.CopyComplete
+C:\DEV\GIT\netcore-angular-vs2019\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.dll
+C:\DEV\GIT\netcore-angular-vs2019\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.pdb
