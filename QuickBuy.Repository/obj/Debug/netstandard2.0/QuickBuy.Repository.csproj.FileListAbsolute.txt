@@ -1,0 +1,9 @@
+D:\DEV\github\netcore-angular-vs2019\QuickBuy.Repository\bin\Debug\netstandard2.0\QuickBuy.Repository.deps.json
+D:\DEV\github\netcore-angular-vs2019\QuickBuy.Repository\bin\Debug\netstandard2.0\QuickBuy.Repository.dll
+D:\DEV\github\netcore-angular-vs2019\QuickBuy.Repository\bin\Debug\netstandard2.0\QuickBuy.Repository.pdb
+D:\DEV\github\netcore-angular-vs2019\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.csprojAssemblyReference.cache
+D:\DEV\github\netcore-angular-vs2019\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.AssemblyInfoInputs.cache
+D:\DEV\github\netcore-angular-vs2019\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.AssemblyInfo.cs
+D:\DEV\github\netcore-angular-vs2019\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.csproj.CoreCompileInputs.cache
+D:\DEV\github\netcore-angular-vs2019\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.dll
+D:\DEV\github\netcore-angular-vs2019\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.pdb

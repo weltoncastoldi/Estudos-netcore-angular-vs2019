@@ -1,0 +1,9 @@
+D:\DEV\github\netcore-angular-vs2019\QuickBuy.Dominio\bin\Debug\netstandard2.0\QuickBuy.Dominio.deps.json
+D:\DEV\github\netcore-angular-vs2019\QuickBuy.Dominio\bin\Debug\netstandard2.0\QuickBuy.Dominio.dll
+D:\DEV\github\netcore-angular-vs2019\QuickBuy.Dominio\bin\Debug\netstandard2.0\QuickBuy.Dominio.pdb
+D:\DEV\github\netcore-angular-vs2019\QuickBuy.Dominio\obj\Debug\netstandard2.0\QuickBuy.Dominio.csprojAssemblyReference.cache
+D:\DEV\github\netcore-angular-vs2019\QuickBuy.Dominio\obj\Debug\netstandard2.0\QuickBuy.Dominio.AssemblyInfoInputs.cache
+D:\DEV\github\netcore-angular-vs2019\QuickBuy.Dominio\obj\Debug\netstandard2.0\QuickBuy.Dominio.AssemblyInfo.cs
+D:\DEV\github\netcore-angular-vs2019\QuickBuy.Dominio\obj\Debug\netstandard2.0\QuickBuy.Dominio.csproj.CoreCompileInputs.cache
+D:\DEV\github\netcore-angular-vs2019\QuickBuy.Dominio\obj\Debug\netstandard2.0\QuickBuy.Dominio.dll
+D:\DEV\github\netcore-angular-vs2019\QuickBuy.Dominio\obj\Debug\netstandard2.0\QuickBuy.Dominio.pdb

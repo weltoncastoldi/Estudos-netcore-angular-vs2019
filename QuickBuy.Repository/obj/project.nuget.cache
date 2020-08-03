@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dyO1Iah8cPwNmoMuCNZmeu2TBHHubTgjAglVr86WeVz43UorWoUnAFaAxsCkKKI+5oNjqtEd/2dtwpRBAtVkUw==",
+  "success": true,
+  "projectFilePath": "D:\\DEV\\github\\netcore-angular-vs2019\\QuickBuy.Repository\\QuickBuy.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WeltonLocal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\WeltonLocal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
