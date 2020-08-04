@@ -1,0 +1,6 @@
+{
+  "ConnectionString": {
+    "SqlServerConnection": "",
+    "QuickBuyDbMySql": "server=mysql.wwonline.com.br;uid=wwonline01;pwd=welton700ton;database=wwonline01"
+  } 
+}

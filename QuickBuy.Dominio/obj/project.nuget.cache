@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3F3/0IYKYenDNRi2w6YOD9jsUut038viC/kfDlxuGfbbw4TiBwb8JEZlLpvHkKdJfS05iHtUC3SlvtTzd5/V9Q==",
+  "dgSpecHash": "667e+cXIdUDNwSGjCFSukRsMxLUTiQBy600bwO0MAfnStwvZzfslrq4tGuaKNxoDmoEIYJc/qaCvVzNf9yTGoQ==",
   "success": true,
-  "projectFilePath": "C:\\DEV\\GIT\\netcore-angular-vs2019\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj",
+  "projectFilePath": "D:\\DEV\\github\\netcore-angular-vs2019\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\welton.castoldi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\welton.castoldi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\WeltonLocal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\WeltonLocal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

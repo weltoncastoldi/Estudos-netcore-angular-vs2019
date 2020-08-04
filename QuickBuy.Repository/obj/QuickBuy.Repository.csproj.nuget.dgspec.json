@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DEV\\GIT\\netcore-angular-vs2019\\QuickBuy.Repository\\QuickBuy.Repository.csproj": {}
+    "D:\\DEV\\github\\netcore-angular-vs2019\\QuickBuy.Repository\\QuickBuy.Repository.csproj": {}
   },
   "projects": {
-    "C:\\DEV\\GIT\\netcore-angular-vs2019\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj": {
+    "D:\\DEV\\github\\netcore-angular-vs2019\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DEV\\GIT\\netcore-angular-vs2019\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj",
+        "projectUniqueName": "D:\\DEV\\github\\netcore-angular-vs2019\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj",
         "projectName": "QuickBuy.Dominio",
-        "projectPath": "C:\\DEV\\GIT\\netcore-angular-vs2019\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj",
-        "packagesPath": "C:\\Users\\welton.castoldi\\.nuget\\packages\\",
-        "outputPath": "C:\\DEV\\GIT\\netcore-angular-vs2019\\QuickBuy.Dominio\\obj\\",
+        "projectPath": "D:\\DEV\\github\\netcore-angular-vs2019\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj",
+        "packagesPath": "C:\\Users\\WeltonLocal\\.nuget\\packages\\",
+        "outputPath": "D:\\DEV\\github\\netcore-angular-vs2019\\QuickBuy.Dominio\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\welton.castoldi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\WeltonLocal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,20 +59,17 @@
         }
       }
     },
-    "C:\\DEV\\GIT\\netcore-angular-vs2019\\QuickBuy.Repository\\QuickBuy.Repository.csproj": {
+    "D:\\DEV\\github\\netcore-angular-vs2019\\QuickBuy.Repository\\QuickBuy.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DEV\\GIT\\netcore-angular-vs2019\\QuickBuy.Repository\\QuickBuy.Repository.csproj",
+        "projectUniqueName": "D:\\DEV\\github\\netcore-angular-vs2019\\QuickBuy.Repository\\QuickBuy.Repository.csproj",
         "projectName": "QuickBuy.Repository",
-        "projectPath": "C:\\DEV\\GIT\\netcore-angular-vs2019\\QuickBuy.Repository\\QuickBuy.Repository.csproj",
-        "packagesPath": "C:\\Users\\welton.castoldi\\.nuget\\packages\\",
-        "outputPath": "C:\\DEV\\GIT\\netcore-angular-vs2019\\QuickBuy.Repository\\obj\\",
+        "projectPath": "D:\\DEV\\github\\netcore-angular-vs2019\\QuickBuy.Repository\\QuickBuy.Repository.csproj",
+        "packagesPath": "C:\\Users\\WeltonLocal\\.nuget\\packages\\",
+        "outputPath": "D:\\DEV\\github\\netcore-angular-vs2019\\QuickBuy.Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\welton.castoldi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\WeltonLocal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +82,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\DEV\\GIT\\netcore-angular-vs2019\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj": {
-                "projectPath": "C:\\DEV\\GIT\\netcore-angular-vs2019\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj"
+              "D:\\DEV\\github\\netcore-angular-vs2019\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj": {
+                "projectPath": "D:\\DEV\\github\\netcore-angular-vs2019\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj"
               }
             }
           }
