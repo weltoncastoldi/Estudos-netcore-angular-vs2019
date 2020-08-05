@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using Microsoft.EntityFrameworkCore.Metadata.Conventions.Infrastructure;
 using QuickBuy.Dominio.Entidades;
 
 namespace QuickBuy.Repository.Config
@@ -30,7 +31,9 @@ namespace QuickBuy.Repository.Config
                 .IsRequired()
                 .HasMaxLength(150);
 
-           // builder.Property(u => u.Pedidos)
+            builder.HasMany(u => u.Pedidos)
+                .WithOne(p => p.Usuario);
+            // builder.Property(u => u.Pedidos)
 
         }
     }

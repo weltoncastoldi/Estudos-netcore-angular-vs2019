@@ -1,6 +1,6 @@
 {
-  "ConnectionString": {
+  "ConnectionStrings": {
     "SqlServerConnection": "",
-    "QuickBuyDbMySql": "server=mysql.wwonline.com.br;uid=wwonline01;pwd=welton700ton;database=wwonline01"
-  } 
+    "QuickBuyDbMySql": "server=mysql26-farm1.kinghost.net;uid=wwonline01;pwd=wel700ton;database=wwonline01"
+  }
 }
