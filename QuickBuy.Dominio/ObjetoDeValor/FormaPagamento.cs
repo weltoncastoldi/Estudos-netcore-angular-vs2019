@@ -10,7 +10,6 @@ namespace QuickBuy.Dominio.ObjetoDeValor
         public int Id { get; set; }
         public string Nome { get; set; }
         public string  Descricao { get; set; }
-
         public bool EhBoleto => Id == (int) TipoFormaPagamentoEnum.Boleto;
         public bool EhCartaoCredito => Id == (int) TipoFormaPagamentoEnum.CartaCredito;
         public bool EhDeposito => Id == (int)TipoFormaPagamentoEnum.Deposito;
